@@ -194,11 +194,11 @@ button:hover {
 /*--//newsletter--*/
 /*-- social-icons --*/
 .agileinfo-social-grids {
-  margin: 0;
-  padding: 0;
+  margin: 800;
+  padding: 300;
   background-color: #0a3d62;
   display: flex;
-  align-items: center;
+  align-items: right;
   justify-content: center;
   min-height: 100vh;
 }
